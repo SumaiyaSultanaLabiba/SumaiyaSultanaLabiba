@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyasultanalabiba&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiyasultanalabiba" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumaiyasultanalabiba" alt="sumaiyasultanalabiba" /></a> </p>
 
 - 🔭 I’m currently working on **Asma-ul-Husna (an application to dive into the mystery of 99 names of the Supreme power)**
 
